@@ -18,3 +18,5 @@ Approach:
 * Loss functions for adversarial learning (Binary Cross-Entropy)
 * Latent space sampling
 * Training stability challenges in GANs
+
+  ![Gans](GenerateDigits.png)
